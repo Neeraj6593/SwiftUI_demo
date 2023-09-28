@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "526F3231-AF7A-490A-82AB-9D75A94019C1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "sendRequest(model:packet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - fa0dd339d6a9555d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2249">
+               </Location>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - fa0dd339d6a9555d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2513">
+               </Location>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - 45bcfc7ffa4df173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1275">
+               </Location>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - 9ae48fdc97bfa37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - fa0dd339d6a9555d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2634">
+               </Location>
+               <Location
+                  uuid = "6497C8BC-894C-4268-A67C-4671E25DD58F - fa0dd339d6a9555d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neeraj/Downloads/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2873">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

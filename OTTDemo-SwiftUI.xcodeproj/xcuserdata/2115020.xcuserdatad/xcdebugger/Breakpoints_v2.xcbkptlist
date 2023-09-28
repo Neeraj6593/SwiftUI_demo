@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDECBB01-BDAA-4846-B528-89DC58C9CD6F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7B5E24F-EAB1-4D5E-AEFA-3F351E0BBF72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTTDemo-SwiftUI/ViewModel/YoutubeVideoListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getYoutubeVideos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "037B8255-D1BB-47C3-989B-531868C3BD1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTTDemo-SwiftUI/ViewModel/YoutubeVideoListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getYoutubeVideos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8D4D9EF-9851-4B50-97AC-7572D6AF5FDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "sendRequest(model:packet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8D4D9EF-9851-4B50-97AC-7572D6AF5FDC - d25b2e771c89aad6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2115020/Documents/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "4264">
+               </Location>
+               <Location
+                  uuid = "E8D4D9EF-9851-4B50-97AC-7572D6AF5FDC - d035dd4717bf8df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for OTTDemo_SwiftUI.NetworkManager.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(model: &#x3c4;_1_0.Type, packet: OTTDemo_SwiftUI.NetworkPacket) async -&gt; Swift.Result&lt;&#x3c4;_1_0, OTTDemo_SwiftUI.NetworkError&gt;"
+                  moduleName = "OTTDemo-SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2115020/Documents/OTTDemo-SwiftUI/OTTDemo-SwiftUI/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
