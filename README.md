@@ -28,7 +28,7 @@ To run this demo project, you need:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/SwiftUI_demo.git
+   git clone https://github.com/Neeraj6593/SwiftUI_demo.git
    ```
 
 2. Open the project in Xcode:
